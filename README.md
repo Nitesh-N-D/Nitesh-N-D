@@ -29,48 +29,44 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Full-Stack Development**
-- 🔭 Building projects like *MedicLink* & *FilmLife*
-- 💡 Exploring **AI, Machine Learning, and Cloud Computing**
-- 🎯 Goal: To become a successful **Software Developer**
+- 🌱 Currently learning *Web Development*
+- 🎯 Goal: To become a successful *Software Developer*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**  
+*Languages*  
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
 
-**Web Development**  
+*Web Development*  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 
-**Tools & Platforms**  
+*Tools & Platforms*  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitesh-ND&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-ND&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-ND&theme=radical)  
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=radical)
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshdwaraka@gmail.com)  
 
 ---
-⭐️ From [Nitesh-ND](https://github.com/Nitesh-ND)
+⭐ From [Nitesh-ND](https://github.com/Nitesh-N-D)
