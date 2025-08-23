@@ -22,10 +22,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🎯 CSE @ MIT | Aspiring Software Developer | Exploring Full-Stack, AI & Cloud  
-<!-- 👇 If you want a fun tagline instead, replace the above line with this one:
-⚡ Coding my way through Java, Python & the Cloud ☁️ | Always curious, always learning 
--->
+<p align="center">
+  ⚡ Developer in the making | Always curious, always coding  
+</p>
 
 ---
 
@@ -69,10 +68,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-portfolio-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)    
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshdwaraka@gmail.com)  
 
 ---
 ⭐️ From [Nitesh-ND](https://github.com/Nitesh-ND)
-
