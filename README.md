@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 ![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&cache_seconds=1800&v=1)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&cache_seconds=1800&v=1)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Nitesh-N-D&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FF6347&currStreakLabel=FFD700&sideLabels=00FFFF&hide_border=true&v=2)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FF6347&currStreakLabel=FFD700&sideLabels=00FFFF&hide_border=true&v=1)
 
 ---
 
