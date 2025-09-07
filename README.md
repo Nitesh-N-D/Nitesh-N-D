@@ -57,10 +57,15 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&cache_seconds=1800&v=1)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="170px" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&cache_seconds=1800&v=1)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Nitesh-N-D&theme=highcontrast&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&sideNums=FFFFFF&hide_border=true&v=2)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" height="170px" />
+</p>
+
 
 
 ---
