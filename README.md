@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=radical&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=radical&hide_border=true" height="170px" />
 </p>
 
 
