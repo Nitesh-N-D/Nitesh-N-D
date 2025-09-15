@@ -53,19 +53,20 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170px" />
+  <b>📊 GitHub Stats:</b><br><br>
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br>
+
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nitesh-N-D&theme=dark&hide_border=false" /><br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true" height="170px" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=radical&hide_border=true" height="170px" />
 </p>
 
 
