@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true" height="170px" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170px" />
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true" height="170px" />
 </p>
