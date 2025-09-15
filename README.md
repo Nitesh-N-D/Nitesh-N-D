@@ -1,5 +1,3 @@
-
-
 <!--
 **Nitesh-N-D/Nitesh-N-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm N.D. Nitesh  
 
 <p align="center">
-  <a href="https://github.com/Nitesh-ND">
+  <a href="https://github.com/Nitesh-N-D">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;BE+CSE+@+Madras+Institute+of+Technology;Always+learning+new+things+🚀" alt="Typing SVG" />
   </a>
 </p>
@@ -57,7 +55,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true" height="170px" />
@@ -76,4 +73,4 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshdwaraka@gmail.com)  
 
 ---
-⭐ From [Nitesh-ND](https://github.com/Nitesh-N-D)
+⭐ From [Nitesh-N-D](https://github.com/Nitesh-N-D)
