@@ -54,17 +54,16 @@ Here are some ideas to get you started:
 ---
 <p align="center">
 
-  <!-- GitHub Stats -->
   <b>📊 GitHub Stats:</b><br><br>
 
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&token=${{ secrets.GH_STATS_TOKEN }}" /><br>
 
   <!-- Streak Stats -->
- <img src="https://nirzak-streak-stats.vercel.app/?user=Nitesh-N-D&theme=dark&hide_border=false" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=dark&hide_border=false" /><br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dark&hide_border=false&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dark&hide_border=false&layout=compact&count_private=true&cache_seconds=1800&token=${{ secrets.GH_STATS_TOKEN }}" />
 
 </p>
 
