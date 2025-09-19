@@ -55,37 +55,13 @@ Here are some ideas to get you started:
 <b>📊 GitHub Stats:</b><br><br>
 
 <p align="center">
-  <!-- Main GitHub Stats (Deep Reddish Gradient) -->
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-       alt="GitHub Stats" 
-       style="border-radius:15px; 
-              box-shadow: 0 6px 20px rgba(200,0,0,0.4); 
-              margin-bottom: 20px; 
-              transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 10px 25px rgba(255,50,50,0.5)';" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(200,0,0,0.4)';" />
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/>
-  
-  <!-- GitHub Streak (Deep Reddish Gradient) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=radical&hide_border=false" 
-       alt="GitHub Streak" 
-       style="border-radius:15px; 
-              box-shadow: 0 6px 20px rgba(200,0,0,0.4); 
-              margin-bottom: 20px; 
-              transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 10px 25px rgba(255,50,50,0.5)';" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(200,0,0,0.4)';" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=cobalt&hide_border=false" alt="GitHub Streak" />
   <br/>
-  
-  <!-- Top Languages (Deep Reddish Gradient) -->
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=radical&hide_border=false&layout=compact" 
-       alt="Top Languages" 
-       style="border-radius:15px; 
-              box-shadow: 0 6px 20px rgba(200,0,0,0.4); 
-              transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 10px 25px rgba(255,50,50,0.5)';" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 20px rgba(200,0,0,0.4)';" />
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=cobalt&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
 
 
 
