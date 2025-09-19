@@ -57,13 +57,12 @@ Here are some ideas to get you started:
   <b>📊 GitHub Stats:</b><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=tokyonight&hide_border=false&cache_seconds=0" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
 
 
 
