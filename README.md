@@ -53,15 +53,14 @@ Here are some ideas to get you started:
 
 ---
 
-
 <b>📊 GitHub Stats:</b><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=cobalt&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=dracula&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=cobalt&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 
