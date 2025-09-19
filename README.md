@@ -55,12 +55,18 @@ Here are some ideas to get you started:
 <b>📊 GitHub Stats:</b><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Main GitHub Stats (Synthwave) -->
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/>
+  
+  <!-- GitHub Streak (Gruvbox) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=gruvbox&hide_border=false&layout=compact" alt="Top Languages" />
+  
+  <!-- Top Languages (Dracula) -->
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
 
 
 ---
