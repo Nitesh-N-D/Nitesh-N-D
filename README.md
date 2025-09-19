@@ -54,19 +54,15 @@ Here are some ideas to get you started:
 ---
 <p align="center">
 
-  <b>📊 GitHub Stats:</b><br><br>
-
 <b>📊 GitHub Stats:</b><br><br>
 
 <p align="center">
-  <img src="https://github.com/Nitesh-N-D/github-readme-stats?username=Nitesh-N-D&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github.com/Nitesh-N-D/github-readme-stats?user=Nitesh-N-D&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github.com/Nitesh-N-D/github-readme-stats?username=Nitesh-N-D&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
-
 
 
 
