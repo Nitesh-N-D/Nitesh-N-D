@@ -55,14 +55,29 @@ Here are some ideas to get you started:
 <b>📊 GitHub Stats:</b><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" 
+       style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin-bottom:20px; transition: transform 0.3s ease;" 
+       onmouseover="this.style.transform='translateY(-8px)';" 
+       onmouseout="this.style.transform='translateY(0)';" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=dracula&hide_border=false" alt="GitHub Streak" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=dracula&hide_border=false" 
+       alt="GitHub Streak" 
+       style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin-bottom:20px; transition: transform 0.3s ease;" 
+       onmouseover="this.style.transform='translateY(-8px)';" 
+       onmouseout="this.style.transform='translateY(0)';" />
   <br/>
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dracula&hide_border=false&layout=compact" 
+       alt="Top Languages" 
+       style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease;" 
+       onmouseover="this.style.transform='translateY(-8px)';" 
+       onmouseout="this.style.transform='translateY(0)';" />
 </p>
-
-
 
 
 
