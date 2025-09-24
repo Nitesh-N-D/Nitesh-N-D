@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 <b>📊 GitHub Stats:</b><br><br>
 
 
-<b>📊 GitHub Stats:</b><br><br>
-
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Main GitHub Stats -->
