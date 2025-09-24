@@ -55,23 +55,25 @@ Here are some ideas to get you started:
 <b>📊 GitHub Stats:</b><br><br>
 
 
+<b>📊 GitHub Stats:</b><br><br>
+
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" 
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&last_updated=0&token=${{ secrets.PAT_1 }}" 
        alt="GitHub Stats" 
        style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=dracula&hide_border=false" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=dracula&hide_border=false&last_updated=0" 
        alt="GitHub Streak" 
        style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dracula&hide_border=false&layout=compact" 
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=dracula&hide_border=false&layout=compact&last_updated=0&token=${{ secrets.PAT_1 }}" 
        alt="Top Languages" 
        style="border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
 </p>
-
 
 
 ---
