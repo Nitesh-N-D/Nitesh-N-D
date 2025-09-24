@@ -53,12 +53,15 @@ Here are some ideas to get you started:
 
 ---
 
+<b>📊 GitHub Stats:</b><br><br>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&cache_seconds=300)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=radical&hide_border=true&cache_seconds=300)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true&cache_seconds=300)
+<p align="center">
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitesh-N-D&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-drab-nu-15.vercel.app/api/top-langs/?username=Nitesh-N-D&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 
 ## 📫 Connect with Me  
