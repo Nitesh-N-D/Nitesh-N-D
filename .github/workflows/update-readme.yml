@@ -1,29 +1,27 @@
-name: Update README Stats
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:
-
-permissions:
-  contents: write   # allow pushing changes
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:         # Allow manual trigger
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update README (cache bust)
+      - name: Generate GitHub Stats
         run: |
-          # Bust cache by updating timestamp in README
-          sed -i "s/last_updated=.*/last_updated=$(date +%s)/" README.md || true
+          # Fetch updated stats from your custom Vercel deployment
+          curl -o README.md "https://github-readme-stats-drab-nu-15.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=dracula"
 
-      - name: Commit & Push README
+      - name: Commit & Push changes
         run: |
-          git config --global user.name "Nitesh-N-D"
-         git config --global user.email "222636978+Nitesh-N-D@users.noreply.github.com" 
+          git config --global user.name "Nitesh N.D"
+          git config --global user.email "12345678+Nitesh-N-D@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update README [skip ci]" || echo "No changes to commit"
-          git push
+          git commit -m "🔄 Auto-update GitHub stats" || echo "No changes to commit"
+          git push https://${{ secrets.PAT_1 }}@github.com/${{ github.repository }}.git
