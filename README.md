@@ -56,17 +56,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&hide_border=true&cache_seconds=300)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=radical&hide_border=true&cache_seconds=300)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true&cache_seconds=300)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=radical&hide_border=true&cache_seconds=3600)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)
-
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)  
