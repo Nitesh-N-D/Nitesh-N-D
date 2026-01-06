@@ -65,8 +65,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Nitesh-N-D&theme=radical&cache_seconds=86400"
+  <img src="https://streak-stats.demolab.com?user=Nitesh-N-D&theme=radical" 
     alt="GitHub contribution streak"
   />
 </p>
