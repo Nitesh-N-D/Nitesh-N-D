@@ -62,13 +62,10 @@
 
 ---
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical&cache_seconds=86400" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Nitesh-N-D&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=radical" />
 </p>
 
 ---
