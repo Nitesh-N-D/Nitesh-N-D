@@ -2,27 +2,27 @@
 
 <p align="center">
   <a href="https://github.com/Nitesh-N-D">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;B.E.+CSE+%7C+Madras+Institute+of+Technology;Strong+in+DSA+%26+Full-Stack+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=Aspiring+Software+Developer;B.E.+CSE+Student+@+Madras+Institute+of+Technology;Strong+in+DSA+and+Full-Stack+Foundations" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>Software Engineering Student | Problem Solver | Full-Stack Enthusiast</b>
+  <b>Computer Science Engineering Student | Aspiring Software Engineer</b>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
-I am a **Computer Science and Engineering undergraduate** with a strong foundation in **Data Structures, Object-Oriented Programming, and Web Technologies**.  
-I enjoy building **clean, scalable applications**, writing **readable code**, and continuously improving my problem-solving skills.
+I am a **Computer Science and Engineering undergraduate** with a solid foundation in **Data Structures, Object-Oriented Programming, and Web Development**.  
+I focus on writing **clean, readable, and maintainable code**, with strong interest in **problem-solving and real-world software development**.
 
-I am actively seeking **internship opportunities** where I can contribute to real-world projects and grow as a software engineer.
+I am actively seeking **internship opportunities** where I can apply my technical skills, contribute to meaningful projects, and continue growing as a software engineer.
 
 ---
 
 ## 🎓 Education
-- **B.E. Computer Science and Engineering**  
-  *Madras Institute of Technology*  
+- **Bachelor of Engineering (B.E.) – Computer Science and Engineering**  
+  *Madras Institute of Technology*
 
 ---
 
@@ -36,15 +36,15 @@ I am actively seeking **internship opportunities** where I can contribute to rea
 
 ---
 
-### Data Structures & Core CS
-- Arrays, Linked Lists, Stacks, Queues  
-- Trees, Graphs, Hashing  
-- Searching & Sorting Algorithms  
-- Time & Space Complexity Analysis  
+### Core Computer Science
+- Data Structures: Arrays, Linked Lists, Stacks, Queues  
+- Advanced Structures: Trees, Graphs, Hashing  
+- Algorithms: Searching, Sorting, Traversals  
+- Strong understanding of **Time & Space Complexity**
 
 ---
 
-### Web & Frontend
+### Web & Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -67,25 +67,29 @@ I am actively seeking **internship opportunities** where I can contribute to rea
 
 ---
 
-## 📂 Academic & Personal Projects
-- **Data Structures Lab Repository** – Structured implementations of core DS concepts  
+## 📂 Academic & Personal Work
+- **Data Structures Lab Repository** – Structured, week-wise implementations of core DS concepts  
 - **Java Programming Lab** – OOP, exception handling, multithreading, collections  
 - **Full-Stack Practice Projects** – React + Node.js based applications  
-*(More projects with documentation available in repositories)*
+*(All projects are documented with clear READMEs)*
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Overview
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nitesh-N-D&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact & Profiles
+## 📫 Contact & Professional Links
 - 💼 **LinkedIn**: [nitesh-n-d-249ab6325](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)
 - 📧 **Email**: [niteshdwaraka@gmail.com](mailto:niteshdwaraka@gmail.com)
 
 ---
 
-⭐ *Focused on writing clean code, learning continuously, and building meaningful software.*
+⭐ *Focused on strong fundamentals, consistent learning, and building reliable software.*
