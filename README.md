@@ -77,20 +77,9 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=default&hide_border=true"
-    alt="Nitesh's GitHub stats"
-    height="160"
-  />
-</p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=default&hide_border=true"
-    alt="Top programming languages used by Nitesh"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github" />
 </p>
 
 ---
