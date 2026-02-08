@@ -77,16 +77,26 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 ## 📊 GitHub Overview
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github&hide_border=true"
+    alt="Nitesh N D GitHub Stats"
+  />
 </p>
 
 ---
 
 ## 📫 Contact & Professional Links
-- 💼 **LinkedIn**: [nitesh-n-d-249ab6325](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)
-- 📧 **Email**: [niteshdwaraka@gmail.com](mailto:niteshdwaraka@gmail.com)
+
+<p align="center">
+  <a href="mailto:niteshdwaraka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nitesh-n-d-249ab6325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
