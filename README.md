@@ -79,8 +79,8 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github&hide_border=true"
-    alt="Nitesh N D GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
