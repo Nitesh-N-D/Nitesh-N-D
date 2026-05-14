@@ -1,25 +1,27 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=220&section=header&text=N.%20D.%20Nitesh&fontSize=62&fontColor=c9a84c&fontAlignY=42&desc=Computer%20Science%20%26%20Engineering%20%E2%80%94%20Madras%20Institute%20of%20Technology%2C%20Chennai&descColor=8ba3c7&descSize=13&descAlignY=62&animation=fadeIn" width="100%"/>
-
-</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=20&duration=3000&pause=1500&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+DSA+Practitioner;Building+robust%2C+scalable+software+systems;B.E.+CSE+%E2%80%94+Madras+Institute+of+Technology;Open+to+Internship+%26+Collaborative+Opportunities)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=120&section=header&text=N.%20D.%20Nitesh&fontSize=38&fontColor=E2E8F0&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Engineering&descSize=13&descAlignY=68" width="100%"/>
+
+<br/>
+
+<a href="mailto:niteshdwaraka@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=flat-square&logo=gmail&logoColor=94A3B8"/>
+</a>
+<a href="https://github.com/Nitesh-N-D">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=94A3B8"/>
+</a>
+<a href="https://www.linkedin.com/in/nitesh-n-d-249ab6325/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=94A3B8"/>
+</a>
+<a href="https://leetcode.com/u/Nitesh_N_D">
+<img src="https://img.shields.io/badge/LeetCode-0F172A?style=flat-square&logo=leetcode&logoColor=94A3B8"/>
+</a>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/niteshdwaraka%40gmail.com-0a0f1e?style=flat-square&logo=gmail&logoColor=c9a84c&labelColor=0a0f1e)](mailto:niteshdwaraka@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=flat-square&logo=linkedin&logoColor=c9a84c&labelColor=0a0f1e)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-0a0f1e?style=flat-square&logo=leetcode&logoColor=c9a84c&labelColor=0a0f1e)](https://leetcode.com/u/Nitesh_N_D)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=flat-square&logo=github&logoColor=c9a84c&labelColor=0a0f1e)](https://github.com/Nitesh-N-D)
-
-</div>
 
 <br/>
 
@@ -201,14 +203,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=github-dark-blue&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0f1e&stroke=1a2744&sideLabels=8ba3c7&dates=8ba3c7" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github_dark&hide_border=true&icon_color=c9a84c&title_color=c9a84c&bg_color=0a0f1e&text_color=8ba3c7&count_private=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&bg_color=0a0f1e&text_color=8ba3c7&langs_count=6" height="130"/>
 
 </div>
 
@@ -263,8 +257,11 @@ contribute to meaningful projects, and grow alongside exceptional teams.
 
 <br/>
 
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=160&section=footer&text=Let%27s%20Build%20Something%20That%20Matters&fontSize=20&fontColor=c9a84c&fontAlignY=45&desc=niteshdwaraka%40gmail.com%20%7C%20Chennai%2C%20Tamil%20Nadu%2C%20India&descColor=8ba3c7&descSize=12&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=90&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=E2E8F0&fontAlignY=50" width="100%"/>
 
 </div>
