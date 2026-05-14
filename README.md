@@ -1,208 +1,270 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=220&section=header&text=N.%20D.%20Nitesh&fontSize=62&fontColor=c9a84c&fontAlignY=42&desc=Computer%20Science%20%26%20Engineering%20%E2%80%94%20Madras%20Institute%20of%20Technology%2C%20Chennai&descColor=8ba3c7&descSize=13&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                      N . D .  N I T E S H                    ║
-║                                                              ║
-║         Computer Science & Engineering  ·  MIT Chennai       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=20&duration=3000&pause=1500&color=C9A84C&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+DSA+Practitioner;Building+robust%2C+scalable+software+systems;B.E.+CSE+%E2%80%94+Madras+Institute+of+Technology;Open+to+Internship+%26+Collaborative+Opportunities)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean%2C+maintainable+software;Strong+foundations+in+DSA+%26+Full-Stack+Dev;B.E.+CSE+%40+Madras+Institute+of+Technology;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/niteshdwaraka%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshdwaraka@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nitesh_N_D)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitesh-N-D)
-
-<br/>
+[![Email](https://img.shields.io/badge/niteshdwaraka%40gmail.com-0a0f1e?style=flat-square&logo=gmail&logoColor=c9a84c&labelColor=0a0f1e)](mailto:niteshdwaraka@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=flat-square&logo=linkedin&logoColor=c9a84c&labelColor=0a0f1e)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0f1e?style=flat-square&logo=leetcode&logoColor=c9a84c&labelColor=0a0f1e)](https://leetcode.com/u/Nitesh_N_D)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=flat-square&logo=github&logoColor=c9a84c&labelColor=0a0f1e)](https://github.com/Nitesh-N-D)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## 🧑‍💻 About Me
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp;Profile
+
+<br/>
 
 ```java
-public class Nitesh {
-
-    String name        = "N.D. Nitesh";
-    String college     = "Madras Institute of Technology";
-    String degree      = "B.E. — Computer Science & Engineering";
-    String location    = "Chennai, India 🇮🇳";
-
-    String[] interests = {
-        "Data Structures & Algorithms",
-        "Full-Stack Web Development",
-        "Clean Code & Software Design",
-        "Open Source Contribution"
-    };
-
-    String goal = "Seeking internships to build real-world impact 🚀";
-}
+/**
+ * N.D. Nitesh — Software Engineer in Progress
+ * ─────────────────────────────────────────────
+ * Institution : Madras Institute of Technology, Chennai
+ * Degree      : B.E. — Computer Science & Engineering  (Ongoing)
+ * Location    : Chennai, Tamil Nadu, India
+ *
+ * Core Focus Areas:
+ *   ◦ Data Structures & Algorithms
+ *   ◦ Full-Stack Web Development (MERN)
+ *   ◦ Clean Architecture & Software Design Principles
+ *   ◦ Open Source & Collaborative Engineering
+ *
+ * Objective → Internship roles where I can contribute meaningfully,
+ *             sharpen my craft, and deliver real-world impact.
+ */
 ```
 
-> *"Focused on strong fundamentals, consistent learning, and building reliable software."*
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+> *Discipline over inspiration. Fundamentals over shortcuts. Craft over speed.*
 
-## 🛠️ Technical Skills
+<br/>
 
-**Languages**
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
 
-**Frontend**
+## &nbsp;&nbsp;◈ &nbsp;Technical Arsenal
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br/>
 
-**Backend & Databases**
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+**— Languages —**
 
-**Cloud & Tools**
+![Java](https://img.shields.io/badge/Java-0a0f1e?style=flat-square&logo=openjdk&logoColor=c9a84c)
+![Python](https://img.shields.io/badge/Python-0a0f1e?style=flat-square&logo=python&logoColor=c9a84c)
+![C](https://img.shields.io/badge/C-0a0f1e?style=flat-square&logo=c&logoColor=c9a84c)
+![C++](https://img.shields.io/badge/C++-0a0f1e?style=flat-square&logo=cplusplus&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0f1e?style=flat-square&logo=javascript&logoColor=c9a84c)
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+</td>
+<td width="25%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+**— Frontend —**
 
-## 📚 Core CS Knowledge
+![HTML5](https://img.shields.io/badge/HTML5-0a0f1e?style=flat-square&logo=html5&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-0a0f1e?style=flat-square&logo=css3&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-0a0f1e?style=flat-square&logo=react&logoColor=c9a84c)
+![Vite](https://img.shields.io/badge/Vite-0a0f1e?style=flat-square&logo=vite&logoColor=c9a84c)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0f1e?style=flat-square&logo=tailwindcss&logoColor=c9a84c)
 
-<table>
+</td>
+<td width="25%" align="center" valign="top">
+
+**— Backend —**
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0f1e?style=flat-square&logo=node.js&logoColor=c9a84c)
+![Express](https://img.shields.io/badge/Express-0a0f1e?style=flat-square&logo=express&logoColor=c9a84c)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0f1e?style=flat-square&logo=mongodb&logoColor=c9a84c)
+![SQL](https://img.shields.io/badge/SQL-0a0f1e?style=flat-square&logo=mysql&logoColor=c9a84c)
+![Socket.io](https://img.shields.io/badge/Socket.io-0a0f1e?style=flat-square&logo=socket.io&logoColor=c9a84c)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**— Tools & Cloud —**
+
+![Git](https://img.shields.io/badge/Git-0a0f1e?style=flat-square&logo=git&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=flat-square&logo=github&logoColor=c9a84c)
+![Vercel](https://img.shields.io/badge/Vercel-0a0f1e?style=flat-square&logo=vercel&logoColor=c9a84c)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0f1e?style=flat-square&logo=cloudinary&logoColor=c9a84c)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0f1e?style=flat-square&logo=visualstudiocode&logoColor=c9a84c)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp;Computer Science Foundations
+
+<br/>
+
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
 
-**🗂️ Data Structures**
-- Arrays, Linked Lists, Stacks, Queues
-- Trees (Binary, BST, Heaps)
-- Graphs & Hashing
+**🗂 Data Structures**
+&nbsp;&nbsp;— Arrays, Linked Lists, Stacks, Queues
+&nbsp;&nbsp;— Trees: Binary, BST, Heaps
+&nbsp;&nbsp;— Graphs, Hash Maps & Sets
+
+**☕ Object-Oriented Programming**
+&nbsp;&nbsp;— Classes, Inheritance, Polymorphism
+&nbsp;&nbsp;— Exception Handling & Multithreading
+&nbsp;&nbsp;— Java Collections Framework
 
   </td>
     <td valign="top" width="50%">
 
-**⚡ Algorithms & Concepts**
-- Searching & Sorting
-- Graph Traversals (BFS, DFS)
-- Time & Space Complexity Analysis
+**⚡ Algorithms & Complexity**
+&nbsp;&nbsp;— Searching & Sorting Algorithms
+&nbsp;&nbsp;— Graph Traversal: BFS & DFS
+&nbsp;&nbsp;— Time & Space Complexity Analysis
 
-  </td>
-  </tr>
-  <tr>
-    <td valign="top">
-
-**☕ OOP & Java**
-- Classes, Inheritance, Polymorphism
-- Exception Handling & Multithreading
-- Java Collections Framework
-
-  </td>
-    <td valign="top">
-
-**🌐 Full-Stack Foundations**
-- REST APIs with Express.js
-- React Component Architecture
-- MongoDB CRUD Operations
+**🌐 Full-Stack Engineering**
+&nbsp;&nbsp;— RESTful APIs with Express.js
+&nbsp;&nbsp;— React Component Architecture
+&nbsp;&nbsp;— MongoDB CRUD & Data Modelling
 
   </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-## 📂 Projects & Labs
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
 
-| 📁 Repository | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| [**Campus-Air**](https://github.com/Nitesh-N-D/Campus-Air) | Full-stack campus communication platform with real-time alerts, OAuth, and admin dashboard | React · Node.js · MongoDB · Socket.io |
-| [**JavaCalculator**](https://github.com/Nitesh-N-D/JavaCalculator) | Advanced scientific calculator with history, exception handling, and modular architecture | Java |
-| [**Guessing Game**](https://github.com/Nitesh-N-D/Guessing_game) | Console game with session statistics tracker across multiple rounds | Java |
-| [**Code Snippets Hub**](https://github.com/Nitesh-N-D/code-snippets-hub) | Curated multi-language snippet reference across Java, Python, C, and C++ | C++ · Java · Python · C |
+<br/>
 
-> *All repositories are documented with clear READMEs.*
+## &nbsp;&nbsp;◈ &nbsp;Selected Projects
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" height="160"/>
+| &nbsp;&nbsp;Repository&nbsp;&nbsp; | &nbsp;&nbsp;Description&nbsp;&nbsp; | &nbsp;&nbsp;Stack&nbsp;&nbsp; |
+|:---:|:---|:---:|
+| **DSA Lab** | Structured, week-by-week implementations of core data structures with documented complexity analysis | `Java` `C++` |
+| **Java Programming Lab** | Deep-dive practicals covering OOP, exception handling, multithreading & collections | `Java` |
+| **Full-Stack Projects** | End-to-end MERN applications with real-time features and RESTful architecture | `React` `Node` `MongoDB` |
+
+</div>
+
+<br/>
+
+> *Every repository ships with thorough documentation and clean, readable code.*
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp;GitHub Activity
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=github-dark-blue&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0f1e&stroke=1a2744&sideLabels=8ba3c7&dates=8ba3c7" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&bg_color=0d1117&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nitesh-N-D&show_icons=true&theme=github_dark&hide_border=true&icon_color=c9a84c&title_color=c9a84c&bg_color=0a0f1e&text_color=8ba3c7&count_private=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117&langs_count=6" height="130"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🎓 Education
-
-| 🏛️ Institution | 📘 Degree | 📅 Status |
-|---|---|---|
-| **Madras Institute of Technology** | B.E. — Computer Science & Engineering | 🟢 Ongoing |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm actively looking for **internship opportunities** where I can contribute, learn, and grow as a software engineer.
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshdwaraka@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-N-D&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&bg_color=0a0f1e&text_color=8ba3c7&langs_count=6" height="130"/>
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Thank you for visiting  ·  Let's build something great together
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nitesh-N-D&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+## &nbsp;&nbsp;◈ &nbsp;Education
+
+<br/>
+
+<div align="center">
+
+| &nbsp;&nbsp;Institution&nbsp;&nbsp; | &nbsp;&nbsp;Qualification&nbsp;&nbsp; | &nbsp;&nbsp;Status&nbsp;&nbsp; |
+|:---:|:---|:---:|
+| **Madras Institute of Technology, Chennai** | B.E. — Computer Science & Engineering | 🟡 &nbsp;Ongoing |
+| **Saradha Matriculation & Higher Secondary School** | Higher Secondary Education (Class XII) | ✅ &nbsp;Completed |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"/>
+</div>
+
+<br/>
+
+## &nbsp;&nbsp;◈ &nbsp;Open to Opportunities
+
+<br/>
+
+<div align="center">
+
+I am actively seeking **internship roles** in software engineering where I can apply strong fundamentals,<br/>
+contribute to meaningful projects, and grow alongside exceptional teams.
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Send%20a%20Message-0a0f1e?style=for-the-badge&logo=gmail&logoColor=c9a84c&labelColor=0a0f1e)](mailto:niteshdwaraka@gmail.com)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=0a0f1e)](https://www.linkedin.com/in/nitesh-n-d-249ab6325/)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nitesh-N-D&style=flat-square&color=c9a84c&label=Profile+Views&labelColor=0a0f1e" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=160&section=footer&text=Let%27s%20Build%20Something%20That%20Matters&fontSize=20&fontColor=c9a84c&fontAlignY=45&desc=niteshdwaraka%40gmail.com%20%7C%20Chennai%2C%20Tamil%20Nadu%2C%20India&descColor=8ba3c7&descSize=12&descAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
