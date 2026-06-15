@@ -202,7 +202,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-N-D&theme=github-dark-blue&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0f1e&stroke=1a2744&sideLabels=8ba3c7&dates=8ba3c7" height="165"/>
+<img src="https://github-readme-streak-stats-delta-orcin.vercel.app?user=Nitesh-N-D&theme=github-dark-blue&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0f1e&stroke=1a2744&sideLabels=8ba3c7&dates=8ba3c7" height="165"/>
 
 </div>
 
