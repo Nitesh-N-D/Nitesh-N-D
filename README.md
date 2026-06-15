@@ -201,7 +201,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats-delta-orcin.vercel.app?user=Nitesh-N-D&theme=hacker-inverted" height="165"/>
+<img src="https://github-readme-streak-stats-delta-orcin.vercel.app?user=Nitesh-N-D&theme=hacker-inverted&background=0F172A&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideNums=c9a84c&currStreakNum=c9a84c&sideLabels=94A3B8&dates=64748B&stroke=1E293B&border=1E293B" height="165"/>
 </div>
 
 <br/>
